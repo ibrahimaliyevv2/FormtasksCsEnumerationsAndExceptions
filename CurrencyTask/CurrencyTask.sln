@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyTask", "CurrencyTask\CurrencyTask.csproj", "{37DDA0DE-9746-416D-9376-E28E6CE4F33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{1523AA04-33AB-4E4F-938A-1F121DC7ED17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{BFAFDF19-6099-462E-B542-A3F1FD319014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37DDA0DE-9746-416D-9376-E28E6CE4F33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DDA0DE-9746-416D-9376-E28E6CE4F33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DDA0DE-9746-416D-9376-E28E6CE4F33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DDA0DE-9746-416D-9376-E28E6CE4F33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1523AA04-33AB-4E4F-938A-1F121DC7ED17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1523AA04-33AB-4E4F-938A-1F121DC7ED17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1523AA04-33AB-4E4F-938A-1F121DC7ED17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1523AA04-33AB-4E4F-938A-1F121DC7ED17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFAFDF19-6099-462E-B542-A3F1FD319014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAFDF19-6099-462E-B542-A3F1FD319014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAFDF19-6099-462E-B542-A3F1FD319014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAFDF19-6099-462E-B542-A3F1FD319014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1812641-9454-4A14-B267-3A30B206449C}
+	EndGlobalSection
+EndGlobal
